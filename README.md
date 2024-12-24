@@ -8,6 +8,7 @@ Github Project: Git Commands Documentation
 
 ###Description
 This project aims to assess familiarity with the use of Github commands within the Udacity: "Introduction to Version Control" course.
+This branch, called "Documentation" has also a copy of the ooriginal Bikeshare.py file.
 
 ###Files used
 Bikeshare.py chicago.csv washington.csv new_york.csv
