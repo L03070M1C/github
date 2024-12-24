@@ -13,4 +13,4 @@ This project aims to assess familiarity with the use of Github commands within t
 Bikeshare.py chicago.csv washington.csv new_york.csv
 
 ###Credits
-Repo used for this practice: https://github.com/L03070M1C/pdsnd_github forked from: https://github.com/udacity/pdsnd_github updated by Sudhanshu Kulshrestha (alias: SudKul)
+Repo used for this practice: https://github.com/L03070M1C/github forked from: https://github.com/udacity/pdsnd_github updated by Sudhanshu Kulshrestha (alias: SudKul)
