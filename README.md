@@ -1,17 +1,17 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
-Include the date you created this project and README file.
+###Date created
+File README.md and project created on Dec the 26th, 2024, as part of Version Control Udacity course.
 
-### Project Title
-Replace the Project Title
+###Project Title
+Github Project: Git Commands Documentation
 
-### Description
-Describe what your project is about and what it does
+###Description
+This project aims to assess familiarity with the use of Github commands within the Udacity: "Introduction to Version Control" course.
 
-### Files used
-Include the files used
+###Files used
+Bikeshare.py chicago.csv washington.csv new_york.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+###Credits
+Repo used for this practice: https://github.com/L03070M1C/github
+forked from: https://github.com/udacity/pdsnd_github updated by Sudhanshu Kulshrestha (alias: SudKul)
