@@ -84,12 +84,12 @@ def filter_summary(city, month, day, init_total_rides, df):
     num_stations_start = len(df['Start Station'].unique())
     num_stations_end = len(df['End Station'].unique())
 
-    print('    Gathering statistics for:', city)
-    print('    Filters (month, day):', month, ',', day)
-    print('    Total rides in dataset:', init_total_rides)
-    print('    Rides in filtered set:', filtered_rides)
-    print('    Number of start stations:', num_stations_start)
-    print('    Number of end stations:', num_stations_end)
+    print('Gathering statistics for:', city)
+    print('Filters (month, day):', month, ',', day)
+    print('Total rides in dataset:', init_total_rides)
+    print('Rides in filtered set:', filtered_rides)
+    print('Number of start stations:', num_stations_start)
+    print('Number of end stations:', num_stations_end)
 
 def load_data(city, month, day):
     """
